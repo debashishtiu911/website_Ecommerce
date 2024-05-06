@@ -1,3 +1,5 @@
 # website_Ecommerce
-first project
+This website implements using  html , CSS ,JS .It is also responsive design.
+
+
 
